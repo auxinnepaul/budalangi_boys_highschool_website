@@ -3,8 +3,7 @@
 Visit the Url:
 
 
-Highschool website URl(https://grocery-website-ljy5.vercel.app
-) 
+Highschool website URl(https://budalangi-boys-highschool-website.vercel.app) 
 ## Getting Started
 
 First, run the development server:
